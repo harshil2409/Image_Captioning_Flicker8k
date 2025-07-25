@@ -4,12 +4,7 @@ This project showcases an **Image Captioning System** that combines the power of
 for image feature extraction and an **LSTM-based decoder** to generate captions.   
 Trained on the **Flickr8k dataset**, it crafts meaningful, grammatically correct descriptions of images and even supports custom inputs for real-time captioning.
 
-## Snorkelling Adventure!🌊
-**Here’s me, going snorkeling for the first time ever! 🐠**    
-<img width="400" alt="Picture 2" src="https://github.com/user-attachments/assets/60b72091-775f-4d5a-a747-66fadaed4335">
 
-**💬 And here’s what my Image Captioner thought of it!**  
-<img width="526" alt="Screenshot 2024-12-09 at 3 14 47 PM" src="https://github.com/user-attachments/assets/85f9b7d8-74aa-40ad-912b-f712a91af37c">  
 ***Happy Indeed!*** ✨
 ## Features  
 ✨ ResNet50 + LSTM Combo: Extracts image features and generates descriptive captions.  
