@@ -24,10 +24,7 @@ The Flickr8k dataset is relatively small, limiting the model's ability to genera
 Train on larger datasets like MS COCO for improved diversity.  
 Explore Transformer-based decoders for more context-aware captioning.  
 Incorporate techniques like data augmentation and contrastive learning to mitigate bias.  
-## Final Report  
-📄 The detailed final report for this project, which includes methodology, 
-analysis, and findings, has been uploaded as a PDF file in this repository. 
-Refer to it for in-depth insights into the model's design and performance evaluation.  
+
 ## Conclusion  
 This project demonstrates the potential of deep learning in bridging the gap between vision and language. 
 While the model generates coherent and grammatically correct captions, its limitations, such as dataset bias and misidentifications, 
